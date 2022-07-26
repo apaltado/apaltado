@@ -1,3 +1,3 @@
 introductorio
-(esto aparece en mi perfil, ¿no?)
-(espero que no)
+<p>(esto aparece en mi perfil, ¿no?)</p>
+<p>(espero que no)</p>
